@@ -1,0 +1,4 @@
+eakk
+git config --global --list
+git config --global user.name Ayuvita_682024106
+git config --global user.email yyuvi170806@gmail.com

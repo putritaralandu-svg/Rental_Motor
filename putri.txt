@@ -1,0 +1,3 @@
+hallo ayu
+git config --global --listgit config --global user.email putritaralandu@gmail.com
+git config --global user.name putritaralandu-wq
